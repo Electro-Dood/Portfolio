@@ -43,5 +43,5 @@ allowing creation of networks in the future.
 But one disadvantage would be the voltage range, which has a maximum of `3.9V`, which is
 lesser than the `4.1V`, which is the full charge voltage of a lipo cell.  
 For the subsystem check I have used an LM1117 linear regulator.
-![Breadboard protoype of interfacing the nrf24l01](images/wireless-comms-test.jpg)
+![Breadboard protoype of interfacing the nrf24l01](images/wireless-comms-test.jpeg)
 The led only toggles if it succesfully receives a `32-byte` fixed payload from the transmitter.
